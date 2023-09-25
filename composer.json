@@ -1,0 +1,11 @@
+
+{
+"name": "nguyenthibichhuyen/shopbanhang",
+"description": "xay dung website ban hang-thay loi day",
+"autoload": {
+    "psr-4": {
+        "Src\\":"application"
+    }
+},
+"require": {}
+}
